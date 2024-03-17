@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1710505153 source:d:\hangman\main.c
+	<stdio.h>
+	<stdlib.h>
+	"english_words.h"
+	<string.h>
+	<stdbool.h>
+	<time.h>
+
+1710493496 d:\hangman\english_words.h
+
